@@ -23,7 +23,7 @@ p {
 
 .container {
     max-width: 80%;
-    margin: 70px auto;
+    margin: 70px auto 5px auto;
     
 }
 
@@ -125,4 +125,13 @@ p {
         border-bottom-left-radius: var(--radius);
 
     }
+}
+
+.attribution {
+    color: black;
+}
+
+.attribution a {
+    /* margin: 0; */
+    padding: 0;
 }

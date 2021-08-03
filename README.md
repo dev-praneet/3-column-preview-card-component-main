@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot_desktop.png)
 
 
 ### Links
@@ -57,13 +57,12 @@ While changing the window size, the elements within the column (for example the 
 ### Useful resources
 
 - [ Block, Inline, and Inline-Block explained | CSS Tutorial
-](https://www.youtube.com/watch?v=x_i2gga-sYg&t=637s) - This helped me with understanding when to used any specific display property such as block, inline or inline block.
+](https://www.youtube.com/watch?v=x_i2gga-sYg&t=637s) - This helped me understand when to use any specific display property such as block, inline or inline-block.
 
 
 ## Author
 
-
-
+Geeky
 
 ## Acknowledgments
 
